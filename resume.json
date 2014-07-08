@@ -1,53 +1,63 @@
 {
   "bio": {
     "firstName": "Brett",
-    "lastName": "Hendriks",
+    "lastName": "Hardin",
     "email": {
       "work": "richard@piedpiper.com",
       "personal": "hardin.brett@gmail.com"
     },
     "phone": {
-      "work": "(912) 555-1234",
-      "personal": "(912) 555-4321"
+      "personal": "(408) 685-1569"
     },
-    "summary": "Richard hails from Tulsa. He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinals!) Before starting Pied Piper, he worked for Hooli as a part time software developer. While his work focuses on applied information theory, mostly optimizing lossless compression schema of both the length-limited and adaptive variants, his non-work interests range widely, everything from quantum computing to chaos theory. He could tell you about it, but THAT would NOT be a “length-limited” conversation!",
+    "summary": "Brett Hardin is a developer, author, and speaker on security topics. Brett began programming at the age of 8 and has always been fascinated with technology.",
     "location": {
-      "city": "San Francisco",
+      "city": "Santa Clara",
       "countryCode": "US",
       "state": "California"
     },
     "websites": {
-      "blog": "http://richardhendricks.com"
+      "blog": "http://bretthard.in"
     },
     "profiles": {
-      "github": "richardhendricks",
-      "twitter": "richardhendricks"
+      "github": "bhardin",
+      "twitter": "miscsecurity"
     }
   },
   "work": [
     {
-      "company": "Facebook",
-      "position": "Software Engineer",
-      "website": "http://facebook.com",
-      "startDate": "2014-06-29",
-      "endDate": "2012-06-29",
-      "summary": "Give an overview of your responsibilities at the company",
+      "company": "KISSmetrics",
+      "position": "Senior Software Engineer",
+      "website": "http://kissmetrics.com",
+      "startDate": "2013-01-13",
+      "endDate": "2014-01-01",
+      "summary": "Developing features that users love.",
       "highlights": [
-        "Increased profits by 20% from 2011-2012 through viral advertising"
+        "Moved KISSmetrics to git from bazaar as a personal project."
+      ]
+    },
+    {
+      "company": "Symantec",
+      "position": "Security Strategist",
+      "website": "http://www.symantec.com",
+      "startDate": "2010-06-01",
+      "endDate": "2011-08-01",
+      "highlights": [
+        "Designed security strategy for integrating security into the development process.",
+        "Identified and remediated several high-risk vulnerabilities in PGP products.",
+        "Developed processes to decrease time to remediate security vulnerabilities.",
+        "Implemented several development strategies to increase code quality.",
+        "Advised upper management on the impact of vulnerabilities identified internally and externally.",
+        "Worked with support to answer security questions being asked by customers."
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Oklahoma",
-      "startDate": "2011-06-01",
-      "endDate": "2014-01-01",
-      "area": "Information Technology",
+      "institution": "California State University at Chico",
+      "area": "Computer Science",
       "studyType": "Bachelor",
-      "courses": [
-        "DB1101 - Basic SQL",
-        "CS2011 - Java Introduction"
-      ]
+      "startDate": "2001",
+      "endDate": "2005"
     }
   ],
   "awards": [
@@ -59,36 +69,59 @@
   ],
   "publications": [
     {
-      "name": "Video compression for 3d media",
-      "publisher": "Hooli",
-      "releaseDate": "2014-10-01",
-      "website": "http://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)"
+      "name": "System and method of web application discovery via capture and analysis of HTTP requests for external resources(Link)",
+      "releaseDate": "2012-10-09",
+      "website": "http://www.patentgenius.com/patent/8286248.html"
+    },
+    {
+      "name": "Systems and methods for automating blind detection of computational vulnerabilities.(Link)",
+      "releaseDate": "2014-01-14",
+      "website": "http://www.patentgenius.com/patent/8631497.html"
+    },
+    {
+      "name": "Method and system for detection of remote file inclusion vulnerabilities",
+      "releaseDate": "2012-08-07",
+      "website": "http://www.patentgenius.com/patent/8239952.html"
+    },
+    {
+      "name": "Hacking: The Next Generation",
+      "publisher": "O'Reilly",
+      "releaseDate": "2009-09-28",
+      "website": "http://www.amazon.com/Hacking-Next-Generation-Animal-Guide/dp/0596154577"
     }
   ],
   "skills": [
     {
-      "name": "Web Development",
+      "name": "Programming",
       "level": "Master",
       "keywords": [
+        "Ruby",
+        "Ruby on Rails",
         "HTML",
-        "CSS",
-        "Javascript"
+        "CSS"
       ]
     },
     {
-      "name": "Compression",
+      "name": "Information Security",
       "level": "Master",
       "keywords": [
-        "Mpeg",
-        "MP4",
-        "GIF"
+        "Penetration Testing",
+        "Application Security",
+        "Vulnerability Assessement",
+        "PCI-DSS",
+        "Encryption",
+        "OWASP"
       ]
     }
   ],
   "references": [
     {
-      "name": "Erlich Bachman",
-      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
+      "name": "Jeff Green",
+      "reference": "Brett is great fun to work with. He is technically very solid but has an A+ attitude to work. Brett has a very strong understanding of security and is a real asset to any team. He has a great attitude and is able to put any personalities and politics aside to get the job done. He has a can-do attitude which I really appreciate. I enjoyed working with Brett and would do so again given the opportunity."
+    },
+    {
+      "name": "Billy Rios",
+      "reference": "Brett is one of the most creative, passionate people I know. He has a deep understanding of both network and application level security concepts, as well as a solid business savvy which allows him to effectively communicate complex security to all levels of an organizations leadership chain. Brett currently works on a high profile security product, pushing the technical limits of the product and innovating security for the masses, while simultaneously advancing the business value of the product and the reputation of the organization. Brett is an ideal candidate for positions involving highly technical skills and advanced technical skill sets, or technical advisory to the most senior business executives. I would gladly be a part of any team Brett is working on and he will bring value to every organization which employs him."
     }
   ]
 }
